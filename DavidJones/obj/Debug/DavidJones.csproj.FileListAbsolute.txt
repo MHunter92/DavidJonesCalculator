@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\DavidJones\DavidJones\bin\Debug\DavidJones.exe.config
+C:\Users\Michael\documents\visual studio 2015\Projects\DavidJones\DavidJones\obj\Debug\DavidJones.csprojResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2015\Projects\DavidJones\DavidJones\bin\Debug\DavidJones.exe
+C:\Users\Michael\documents\visual studio 2015\Projects\DavidJones\DavidJones\bin\Debug\DavidJones.pdb
+C:\Users\Michael\documents\visual studio 2015\Projects\DavidJones\DavidJones\obj\Debug\DavidJones.exe
+C:\Users\Michael\documents\visual studio 2015\Projects\DavidJones\DavidJones\obj\Debug\DavidJones.pdb
